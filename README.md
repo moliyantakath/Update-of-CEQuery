@@ -1,6 +1,4 @@
-# spero-b-frontend - Sample Client app for https://github.com/T37A/Spero-b.
 
-Prerequisite: -Node.js should be installed.
 
 Clone repository and follow below steps:
 1. Open terminal and go to repository(where you have cloned this project) and execute command 'npm install'
